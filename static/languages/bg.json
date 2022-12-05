@@ -1,12 +1,12 @@
 {
-  "heading": "Усилия за научноизследователска и развойна дейност във всички страни от ЕС",
+  "heading": "Усилия за научноизследователска и развойна дейност в цяла Европа",
   "subheading": "Брутни вътрешни разходи за НИРД през 2021 г. като процент от БВП. Средно за ЕС: 2,27%",
   "legend1": "Няма данни",
   "tooltip1": "от БВП",
   "textSourceDescription": "Източник",
   "textSource": "Евростат",
   "textNoteDescription": "Забележка",
-  "textNote": "Евростат е статистическата служба на Европейския съюз, която отговаря за публикуването на висококачествена статистика и показатели за цяла Европа, които позволяват сравнения между страни и региони.",
+  "textNote": "Евростат е статистическата служба на Европейския съюз, отговорна за публикуването на висококачествена статистика и показатели за цяла Европа, които позволяват сравнения между страни и региони.",
   "textDataAccess": "Достъп до данните",
   "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L, Z,0;UNIT,L,Z,1;INDICATORS,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDICATORS,OBS_FLAG;DS-053382UNIT,PC_GDP;&rankName1=UNIT_1_2_-1_2&rankName2=INDICATORS_1_2_-1_2&rankName3= SECTPERF_1_2_-1_2&rankName4=TIME_1_0_0_0&rankName5=GEO_1_0_0_1&sortR=ASC_-1_FIRST&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=ROLLING&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23 %23%23.%23%23%23",
   "textCountryClick": "Кликнете за повече информация"

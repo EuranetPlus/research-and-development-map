@@ -1,5 +1,5 @@
 {
-  "heading": "Mokslinių tyrimų ir plėtros pastangos visose ES šalyse",
+  "heading": "Mokslinių tyrimų ir plėtros pastangos visoje Europoje",
   "subheading": "Bendrosios vidaus išlaidos MTEP 2021 m. procentais nuo BVP. ES vidurkis: 2,27 proc.",
   "legend1": "Nėra duomenų",
   "tooltip1": "BVP",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Pastaba",
   "textNote": "Eurostatas yra Europos Sąjungos statistikos tarnyba, atsakinga už aukštos kokybės visos Europos statistikos ir rodiklių, leidžiančių palyginti šalis ir regionus, skelbimą.",
   "textDataAccess": "Pasiekite duomenis",
-  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L, Z,0;UNIT,L,Z,1;INDIKATORIAI,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDIKATORIAI,OBS_FLAG;DS-053382VIENETAS,PC_GDP;&rankName1=UNIT_1_2_Name_1=INDIKAT_2_2_Name_1= SektPerf_1_2_-1_2 & rcankName4 = Time_1_0_0_0 & rcankName5 = geo_1_0_0_1 & sortr = asc_-1_first & sortc = asc_-1_first & rstp = & cstp = & rdch = & cdch = & rdm = true & cdm = true & fealse = fealse = fealse = flealse = fealse = fleals = fleals = fleals = fleals = fleals = fleals = fleals = fleals = fleals = ' %23%23.%23%23%23",
+  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L, Z,0;VIENETAS,L,Z,1;INDIKATORIAI,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDIKATORIAI,OBS_FLAG;DS-053382VIENETAS,PC_GDP;&rankName1=UNIT_1_2_Name_1=INDIKAT_2_2_Name_1= SektPerf_1_2_-1_2 & rcankName4 = Time_1_0_0_0 & rcankName5 = geo_1_0_0_1 & sortr = asc_-1_first & sortc = asc_-1_first & rstp = & cstp = & rdch = & cdch = & rdm = true & cdm = true & fealse = fealse = fealse = flealse = fealse = fleals = fleals = fleals = fleals = fleals = fleals = fleals = fleals = fleals = ' %23%23.%23%23%23",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

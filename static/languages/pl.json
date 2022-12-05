@@ -1,5 +1,5 @@
 {
-  "heading": "Wysiłki badawczo-rozwojowe we wszystkich krajach UE",
+  "heading": "Wysiłki badawczo-rozwojowe w całej Europie",
   "subheading": "Nakłady krajowe brutto na B+R w 2021 r. jako procent PKB. Średnia UE: 2,27%",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "PKB",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Notatka",
   "textNote": "Eurostat to urząd statystyczny Unii Europejskiej odpowiedzialny za publikowanie wysokiej jakości ogólnoeuropejskich statystyk i wskaźników, które umożliwiają porównania między krajami i regionami.",
   "textDataAccess": "Uzyskaj dostęp do danych",
-  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L, Z,0;JEDNOSTKA,L,Z,1;WSKAŹNIKI,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDICATORS,OBS_FLAG;DS-053382JEDNOSTKA,PC_GDP;&rankName1=JEDNOSTKA_1_2_-1_2&rankName2=INDICATORS_1_2_-1_2&rankName3= SECTPERF_1_2_-1_2 i rankname4 = time_1_0_0_0 & rankname5 = Geo_1_0_0_1 & sortr = ASC_-1_first & sortc = ASC_-1_first & rstp = & cstp = & rdch = i cdch = & rdm = true & cdm = true & fals & sortc = false & fax & time_mod = timed_mode_mode = timode_mode = timode_mode = timode_mode = timode_mode %23%23.%23%23%23",
+  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L, Z,0;JEDNOSTKA,L,Z,1;WSKAŹNIKI,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDICATORS,OBS_FLAG;DS-053382JEDNOSTKA,PC_GDP;&rankName1=JEDNOSTKA_1_2_-1_2&rankName2=INDICATORS_1_2_-1_2&rankName3= SECTPERF_1_2_-1_2 i rankname4 = time_1_0_0_0 & rankname5 = Geo_1_0_0_1 & sortr = ASC_-1_first & sortc = ASC_-1_first & rstp = & cstp = & rdch = i cdch = & rdm = true & cdm = true & fals & fale & fale & time_mode = time_mode_mode = timode_mode = timode_mode = timode_mode %23%23.%23%23%23",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

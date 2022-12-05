@@ -1,5 +1,5 @@
 {
-  "heading": "Kutatási és fejlesztési erőfeszítések az EU összes országában",
+  "heading": "Kutatási és fejlesztési erőfeszítések Európa-szerte",
   "subheading": "A bruttó hazai K+F kiadások 2021-ben a GDP százalékában. EU-átlag: 2,27%",
   "legend1": "Nincs elérhető adat",
   "tooltip1": "a GDP",
@@ -8,6 +8,6 @@
   "textNoteDescription": "jegyzet",
   "textNote": "Az Eurostat az Európai Unió statisztikai hivatala, amely az országok és régiók közötti összehasonlítást lehetővé tevő, Európa-szerte magas színvonalú statisztikák és mutatók közzétételéért felelős.",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L, Z,0;UNIT,L,Z,1;INDIKÁTOROK,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDIKÁTOROK,OBS_FLAG;DS-053382EGYSÉG,PC_GDP;&rankName1=UNIT_1_2_Név_1=RANK_2_2_Név_1= SECTPERF_1_2_-1_2&rankName4=TIME_1_0_0_0&rankName5=GEO_1_0_0_1&sortR=ASC_-1_FIRST&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=ROLLING&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23 %23%23.%23%23%23",
+  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L, Z,0;UNIT,L,Z,1;INDIKÁTOROK,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDIKÁTOROK,OBS_FLAG;DS-053382EGYSÉG,PC_GDP;&rankName1=UNIT_1_2_Név_1=2INDIKÁTOR_2_2_-1 SECTPERF_1_2_-1_2&rankName4=TIME_1_0_0_0&rankName5=GEO_1_0_0_1&sortR=ASC_-1_FIRST&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=ROLLING&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23 %23%23.%23%23%23",
   "textCountryClick": "További információért kattintson"
 }

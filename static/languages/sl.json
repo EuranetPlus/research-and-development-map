@@ -1,5 +1,5 @@
 {
-  "heading": "Raziskovalna in razvojna prizadevanja v vseh državah EU",
+  "heading": "Raziskovalna in razvojna prizadevanja po Evropi",
   "subheading": "Bruto domači izdatki za raziskave in razvoj v letu 2021 kot odstotek BDP. Povprečje EU: 2,27 %",
   "legend1": "Ni podatkov",
   "tooltip1": "BDP",
@@ -7,7 +7,7 @@
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
   "textNote": "Eurostat je statistični urad Evropske unije, odgovoren za objavo visokokakovostnih vseevropskih statistik in kazalnikov, ki omogočajo primerjave med državami in regijami.",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L, Z,0;UNIT,L,Z,1;INDICATORS,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDICATORS,OBS_FLAG;DS-053382UNIT,PC_GDP;&rankName1=UNIT_1_2_-1_2&rankName2=INDICATORS_1_2_-1_2&rankName3= SECTPERF_1_2_-1_2&rankName4=TIME_1_0_0_0&rankName5=GEO_1_0_0_1&sortR=ASC_-1_FIRST&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=ROLLING&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23 %23%23.%23%23%23",
   "textCountryClick": "Kliknite za več informacij"
 }
