@@ -1,13 +1,13 @@
 {
   "heading": "Teadus- ja arendustegevus kogu Euroopas",
-  "subheading": "Sisemajanduse kogukulud teadus- ja arendustegevusele 2021. aastal protsendina SKTst. EL keskmine: 2,27%",
-  "legend1": "Andmed puuduvad",
-  "tooltip1": "SKTst",
+  "subheading": "Sisemajanduse kogukulutused teadus- ja arendustegevusele 2021. aastal protsendina SKPst. ELi keskmine: 2,27%",
+  "legend1": "Andmed pole saadaval",
+  "tooltip1": "SKP-st",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
-  "textNoteDescription": "Märge",
-  "textNote": "Eurostat on Euroopa Liidu statistikaamet, mis vastutab kvaliteetse üleeuroopalise statistika ja näitajate avaldamise eest, mis võimaldavad riikide ja piirkondade vahelist võrdlust.",
+  "textNoteDescription": "Märkus",
+  "textNote": "Eurostat on Euroopa Liidu statistikaamet, mis avaldab kvaliteetset üleeuroopalist statistikat ja näitajaid, mis võimaldavad riikide ja piirkondade vahelist võrdlust.",
   "textDataAccess": "Juurdepääs andmetele",
-  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L, Z,0;UNIT,L,Z,1;INDIKAATORID,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDIKAATORID,OBS_FLAG;DS-053382ÜHIK,PC_GDP;&rankName1=UNIT_1_2_Nimi_1=INDIKAA_2_2_Nimi_1_2 Sectuperf_1_2_-1_2 & RankName4 = aeg_1_0_0_0 & Rankname5 = geo_1_0_1 & sortr = ASC_-1_First & SORTC = ASC_-1_First & RSTP = & CSTP = & RDCH = & RDCH = FALA = FALA = FALA = FALSET = FALA = FALA = FALA = FALA = FALA = FALA = FALA = FALA = FALA = FALA = FALA = FALA = FALA = FALA = FALA = FALA = FALA = FALA = FALA = FALA = FALA = FALA = FALA = FALA = FALA = FALAL = FALAL = FALAL = FALA = FALA = FALAL = FALA = FALA = FALAL = FALA = %23%23.%23%23%23",
+  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L,Z,0;UNIT,L,Z,1;INDICATORS,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDICATORS,OBS_FLAG;DS-053382UNIT,PC_SKP;&rankName1=UNIT_1_2_-1_2&rankName2= INDICATORS_1_2_-1_2&rankName3=SECTPERF_1_2_-1_2&rankName4=TIME_1_0_0_0&rankName5=GEO_1_0_0_1&sortR=ASC_-1_FIRST&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=ROLLING&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23",
   "textCountryClick": "Lisateabe saamiseks klõpsake"
 }

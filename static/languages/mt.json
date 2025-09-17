@@ -1,13 +1,13 @@
 {
   "heading": "Sforzi ta' riċerka u żvilupp madwar l-Ewropa",
-  "subheading": "Nefqa domestika grossa fuq R&D fl-2021 bħala perċentwal tal-PDG. Medja tal-UE: 2.27%",
-  "legend1": "Ebda data disponibbli",
-  "tooltip1": "tal-PGD",
+  "subheading": "Nefqa domestika grossa fuq ir-R&Ż fl-2021 bħala perċentwal tal-PDG. Medja tal-UE: 2.27%",
+  "legend1": "L-ebda dejta disponibbli",
+  "tooltip1": "tal-PDG",
   "textSourceDescription": "Sors",
-  "textSource": "Eurostat",
+  "textSource": "L-Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "L-Eurostat huwa l-uffiċċju tal-istatistika tal-Unjoni Ewropea, responsabbli għall-pubblikazzjoni ta' statistika u indikaturi ta' kwalità għolja madwar l-Ewropa kollha li jippermettu tqabbil bejn il-pajjiżi u r-reġjuni.",
-  "textDataAccess": "Aċċessa għad-data",
-  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L, Z,0;UNITAJIET,L,Z,1;INDIKATURI,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDIKATURI,OBS_FLAG;DS-053382UNIT,PC_GDP;&rankName1=UNIT_1_2_2_rankName-12_2_rankName-12_2_2 SECTPERF_1_2_-1_2&rankName4=TIME_1_0_0_0&rankName5=GEO_1_0_0_1&sortR=ASC_-1_FIRST&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=ROLLING&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23 %23%23.%23%23%23",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textNote": "L-Eurostat huwa l-uffiċċju statistiku tal-Unjoni Ewropea, responsabbli għall-pubblikazzjoni ta’ statistika u indikaturi ta’ kwalità għolja madwar l-Ewropa li jippermettu tqabbil bejn pajjiżi u reġjuni.",
+  "textDataAccess": "Aċċessa d-dejta",
+  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L,Z,0;UNIT,L,Z,1;INDIKATURI,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDIKATURI,OBS_FLAG;DS-053382UNIT,PC_GDP;&rankName1=UNIT_1_2_-1_2&rankName2= INDIKATURI_1_2_-1_2&rankName3=SECTPERF_1_2_-1_2&rankName4=TIME_1_0_0_0&rankName5=GEO_1_0_0_1&sortR=ASC_-1_FIRST&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=ROLLING&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23",
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

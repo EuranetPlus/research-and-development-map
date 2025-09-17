@@ -1,13 +1,13 @@
 {
   "heading": "Esfuerzos de investigación y desarrollo en toda Europa",
-  "subheading": "Gasto interior bruto en I+D en 2021 como porcentaje del PIB. media de la UE: 2,27 %",
-  "legend1": "Datos no disponibles",
+  "subheading": "Gasto interior bruto en I+D en 2021 como porcentaje del PIB. Media de la UE: 2,27 %.",
+  "legend1": "No hay datos disponibles",
   "tooltip1": "del PIB",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Eurostat es la oficina estadística de la Unión Europea, responsable de publicar estadísticas e indicadores europeos de alta calidad que permiten realizar comparaciones entre países y regiones.",
-  "textDataAccess": "Accede a los datos",
-  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L, Z,0;UNIDAD,L,Z,1;INDICADORES,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDICATORS,OBS_FLAG;DS-053382UNIT,PC_GDP;&rankName1=UNIT_1_2_-1_2&rankName2=INDICATORS_1_2_-1_2&rankName3= Sectperf_1_2_1_2 & rankname4 = time_1_0_0_0 & rankname5 = geo_1_1_0_0_1 & sortr = asc_-1_first & sort = asc_-1_first & rstp = & cstp = & rdch = & cdch = & rdm = true & cdm = true & foal & foal & foal & foal & foal & waii %23%23.%23%23%23",
-  "textCountryClick": "Haga clic para obtener más información"
+  "textNote": "Eurostat es la oficina estadística de la Unión Europea, responsable de publicar estadísticas e indicadores europeos de alta calidad que permitan realizar comparaciones entre países y regiones.",
+  "textDataAccess": "Acceder a los datos",
+  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L,Z,0;UNIT,L,Z,1;INDICATORS,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDICATORS,OBS_FLAG;DS-053382UNIT,PC_GDP;&rankName1=UNIT_1_2_-1_2&rankName2= INDICADORES_1_2_-1_2&rankName3=SECTPERF_1_2_-1_2&rankName4=TIME_1_0_0_0&rankName5=GEO_1_0_0_1&sortR=ASC_-1_FIRST&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=ROLLING&time_most_recent=false&lang=EN&cfo=%23%23%2C%23%23%23.%23%23%23",
+  "textCountryClick": "Haga clic para más información"
 }

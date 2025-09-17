@@ -1,13 +1,13 @@
 {
   "heading": "Mokslinių tyrimų ir plėtros pastangos visoje Europoje",
-  "subheading": "Bendrosios vidaus išlaidos MTEP 2021 m. procentais nuo BVP. ES vidurkis: 2,27 proc.",
+  "subheading": "Bendrosios vidaus išlaidos MTEP 2021 m., išreikštos BVP procentine dalimi. ES vidurkis: 2,27 %.",
   "legend1": "Nėra duomenų",
   "tooltip1": "BVP",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Eurostatas yra Europos Sąjungos statistikos tarnyba, atsakinga už aukštos kokybės visos Europos statistikos ir rodiklių, leidžiančių palyginti šalis ir regionus, skelbimą.",
-  "textDataAccess": "Pasiekite duomenis",
-  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L, Z,0;VIENETAS,L,Z,1;INDIKATORIAI,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDIKATORIAI,OBS_FLAG;DS-053382VIENETAS,PC_GDP;&rankName1=UNIT_1_2_Name_1=INDIKAT_2_2_Name_1= SektPerf_1_2_-1_2 & rcankName4 = Time_1_0_0_0 & rcankName5 = geo_1_0_0_1 & sortr = asc_-1_first & sortc = asc_-1_first & rstp = & cstp = & rdch = & cdch = & rdm = true & cdm = true & fealse = fealse = fealse = flealse = fealse = fleals = fleals = fleals = fleals = fleals = fleals = fleals = fleals = fleals = ' %23%23.%23%23%23",
+  "textNote": "„Eurostat“ yra Europos Sąjungos statistikos tarnyba, atsakinga už aukštos kokybės visos Europos statistikos ir rodiklių, leidžiančių palyginti šalis ir regionus, skelbimą.",
+  "textDataAccess": "Prieiga prie duomenų",
+  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L,Z,0;UNIT,L,Z,1;INDIKATORIAI,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDICATORS,OBS_FLAG;DS-053382UNIT,PC_GDP;&rankName1=UNIT_1_2_-1_2&rankName2= INDICATORS_1_2_-1_2&rankName3=SECTPERF_1_2_-1_2&rankName4=TIME_1_0_0_0&rankName5=GEO_1_0_0_1&sortR=ASC_-1_FIRST&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=ROLLING&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

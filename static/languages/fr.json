@@ -1,13 +1,13 @@
 {
   "heading": "Efforts de recherche et développement à travers l'Europe",
-  "subheading": "Dépenses intérieures brutes de R&D en 2021 en pourcentage du PIB. Moyenne UE : 2,27 %",
-  "legend1": "Pas de données disponibles",
+  "subheading": "Dépenses intérieures brutes de R&D en 2021, en pourcentage du PIB. Moyenne de l'UE : 2,27 %.",
+  "legend1": "Aucune donnée disponible",
   "tooltip1": "du PIB",
-  "textSourceDescription": "La source",
+  "textSourceDescription": "Source",
   "textSource": "Eurostat",
-  "textNoteDescription": "Noter",
-  "textNote": "Eurostat est l'office statistique de l'Union européenne, responsable de la publication de statistiques et d'indicateurs européens de haute qualité permettant des comparaisons entre pays et régions.",
+  "textNoteDescription": "Note",
+  "textNote": "Eurostat est l'office statistique de l'Union européenne, chargé de publier des statistiques et des indicateurs de haute qualité à l'échelle européenne qui permettent des comparaisons entre les pays et les régions.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L, Z,0;UNIT,L,Z,1;INDICATORS,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDICATORS,OBS_FLAG;DS-053382UNIT,PC_GDP;&rankName1=UNIT_1_2_-1_2&rankName2=INDICATORS_1_2_-1_2&rankName3= SECTPERF_1_2_-1_2&rankName4=TIME_1_0_0_0&rankName5=GEO_1_0_0_1&sortR=ASC_-1_FIRST&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=ROLLING&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23 %23%23.%23%23%23",
+  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L,Z,0;UNIT,L,Z,1;INDICATEURS,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDICATEURS,OBS_FLAG;DS-053382UNIT,PC_GDP;&rankName1=UNIT_1_2_-1_2&rankName2= INDICATEURS_1_2_-1_2&rankName3=SECTPERF_1_2_-1_2&rankName4=TIME_1_0_0_0&rankName5=GEO_1_0_0_1&sortR=ASC_-1_FIRST&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=ROLLING&time_most_recent=false&lang=FR&cfo=%23%23%23%2C%23%23%23.%23%23%23",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

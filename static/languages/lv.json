@@ -1,13 +1,13 @@
 {
   "heading": "Pētniecības un attīstības centieni visā Eiropā",
-  "subheading": "Iekšzemes bruto izdevumi pētniecībai un attīstībai 2021. gadā procentos no IKP. ES vidēji: 2,27%",
-  "legend1": "Nav pieejami dati",
+  "subheading": "Kopējie iekšzemes izdevumi pētniecībai un attīstībai 2021. gadā procentos no IKP. ES vidējais rādītājs: 2,27 %",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "no IKP",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "Eurostat ir Eiropas Savienības statistikas birojs, kas atbild par augstas kvalitātes Eiropas mēroga statistikas un rādītāju publicēšanu, kas ļauj salīdzināt valstis un reģionus.",
+  "textNote": "Eurostat ir Eiropas Savienības statistikas birojs, kas ir atbildīgs par augstas kvalitātes Eiropas mēroga statistikas un rādītāju publicēšanu, kas ļauj veikt salīdzinājumus starp valstīm un reģioniem.",
   "textDataAccess": "Piekļūstiet datiem",
-  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L, Z,0;UNIT,L,Z,1;INDICATORS,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDICATORS,OBS_FLAG;DS-053382UNIT,PC_GDP;&rankName1=UNIT_1_2_Name=2IND_2IND_2_1= Sectperf_1_2_-1_2 & rankname4 = laika_1_0_0_0 & rankname5 = geo_1_0_0_1 & sortr = asc_-1_first & sortc = asc_-1_first & rstp = & cstp = & rdch = & cdCh = & rdm = tunt & cdm = true & foulnes = false & false = false & false & fals %23%23.%23%23%23",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L,Z,0;UNIT,L,Z,1;INDICATORS,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDICATORS,OBS_FLAG;DS-053382UNIT,PC_GDP;&rankName1=UNIT_1_2_-1_2&rankName2= INDICATORS_1_2_-1_2&rankName3=SECTPERF_1_2_-1_2&rankName4=TIME_1_0_0_0&rankName5=GEO_1_0_0_1&sortR=ASC_-1_FIRST&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=RITOŠĀ&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23",
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

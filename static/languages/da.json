@@ -1,13 +1,13 @@
 {
-  "heading": "Forsknings- og udviklingsindsats på tværs af Europa",
-  "subheading": "Indenlandske bruttoudgifter til F&U i 2021 som en procentdel af BNP. EU-gennemsnit: 2,27 %",
-  "legend1": "Ingen tilgængelig data",
+  "heading": "Forsknings- og udviklingsindsats i hele Europa",
+  "subheading": "Bruttonationaludgifter til forskning og udvikling i 2021 som en procentdel af BNP. EU-gennemsnit: 2,27 %",
+  "legend1": "Ingen data tilgængelige",
   "tooltip1": "af BNP",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
-  "textNoteDescription": "Bemærk",
-  "textNote": "Eurostat er Den Europæiske Unions statistiske kontor, ansvarlig for at offentliggøre europæiske statistikker og indikatorer af høj kvalitet, der muliggør sammenligninger mellem lande og regioner.",
-  "textDataAccess": "Få adgang til data",
-  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L, Z,0;ENHED,L,Z,1;INDICATORS,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDICATORS,OBS_FLAG;DS-053382UNIT,PC_GDP;&rankName1=UNIT_1_2_1_2ICA_Name&rank_Name=UNIT_1_2_2_2_2INDICATORS SECTPERF_1_2_-1_2&rankName4=TIME_1_0_0_0&rankName5=GEO_1_0_0_1&sortR=ASC_-1_FIRST&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=ROLLING&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23 %23%23.%23%23%23",
-  "textCountryClick": "Klik for mere info"
+  "textNoteDescription": "Note",
+  "textNote": "Eurostat er Den Europæiske Unions statistiske kontor, der er ansvarlig for at offentliggøre europæisk dækkende statistikker og indikatorer af høj kvalitet, der muliggør sammenligninger mellem lande og regioner.",
+  "textDataAccess": "Få adgang til dataene",
+  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L,Z,0;UNIT,L,Z,1;INDIKATORER,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDIKATORER,OBS_FLAG;DS-053382UNIT,PC_GDP;&rankName1=UNIT_1_2_-1_2&rankName2= INDIKATORER_1_2_-1_2&rangnavn3=SEKTPERF_1_2_-1_2&rangnavn4=TID_1_0_0_0&rangnavn5=GEO_1_0_0_1&sortR=ASC_-1_FØRST&sortC=ASC_-1_FØRST&rStp=&cStp=&rDCh=&cDCh=&rDM=sand&cDM=sand&fodnoter=falsk&tom=falsk&wai=falsk&tidstilstand=RULLENDE&tidspunkt_nyeste=falsk&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23",
+  "textCountryClick": "Klik for mere information"
 }

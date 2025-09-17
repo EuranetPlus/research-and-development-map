@@ -1,13 +1,13 @@
 {
   "heading": "Onderzoeks- en ontwikkelingsinspanningen in heel Europa",
-  "subheading": "Bruto binnenlandse uitgaven aan R&D in 2021 als percentage van het bbp. EU-gemiddelde: 2,27%",
+  "subheading": "Bruto binnenlandse uitgaven aan R&D in 2021 als percentage van het BBP. EU-gemiddelde: 2,27%",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "van het BBP",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "Eurostat is het statistische bureau van de Europese Unie, verantwoordelijk voor het publiceren van hoogwaardige Europese statistieken en indicatoren die vergelijkingen tussen landen en regio's mogelijk maken.",
+  "textNote": "Eurostat is het statistische bureau van de Europese Unie. Het is verantwoordelijk voor het publiceren van hoogwaardige statistieken en indicatoren op Europees niveau, die vergelijkingen tussen landen en regio's mogelijk maken.",
   "textDataAccess": "Toegang tot de gegevens",
-  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L, Z,0;UNIT,L,Z,1;INDICATORS,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDICATORS,OBS_FLAG;DS-053382UNIT,PC_GDP;&rankName1=UNIT_1_2_-1_2&rankName2=INDICATORS_1_2_-1_2&rankName3= SECTPERF_1_2_-1_2&rankName4=TIME_1_0_0_0&rankName5=GEO_1_0_0_1&sortR=ASC_-1_FIRST&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=ROLLING&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23 %23%23.%23%23%23",
-  "textCountryClick": "Klik voor meer info"
+  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L,Z,0;UNIT,L,Z,1;INDICATORS,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDICATORS,OBS_FLAG;DS-053382UNIT,PC_GDP;&rankName1=UNIT_1_2_-1_2&rankName2= INDICATORS_1_2_-1_2&rankName3=SECTPERF_1_2_-1_2&rankName4=TIME_1_0_0_0&rankName5=GEO_1_0_0_1&sortR=ASC_-1_FIRST&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=ROLLING&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23",
+  "textCountryClick": "Klik voor meer informatie"
 }

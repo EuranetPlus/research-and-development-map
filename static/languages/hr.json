@@ -1,13 +1,13 @@
 {
   "heading": "Istraživački i razvojni napori diljem Europe",
-  "subheading": "Bruto domaći izdaci za istraživanje i razvoj u 2021. kao postotak BDP-a. EU prosjek: 2,27%",
+  "subheading": "Bruto domaći izdaci za istraživanje i razvoj u 2021. kao postotak BDP-a. Prosjek EU: 2,27%",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "BDP-a",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "Eurostat je statistički ured Europske unije, odgovoran za objavljivanje visokokvalitetnih europskih statistika i pokazatelja koji omogućuju usporedbu između zemalja i regija.",
-  "textDataAccess": "Pristupite podacima",
-  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L, Z,0;UNIT,L,Z,1;INDICATORS,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDICATORS,OBS_FLAG;DS-053382UNIT,PC_GDP;&rankName1=UNIT_1_2_-1_2&rankName2=INDICATORS_1_2_-1_2&rankName3= SECTPERF_1_2_22 & RANKNAME4 = TIME_1_0_0_0 & RANKNAME5 = geo_1_0_0_1 & SORTR = ASC_FIRST & SORCH = ASC_-1_FIRST & RSTP = & CSTC = & RDCH = & RDM & RDM & RDM & RRDM & RDMS & RDMM & RDMM & RDMM & RDMM & CDMS & RDMM & RDMM & RDMM & CDMS & RDMM & RDMM & CDMS IRDIRANJE %23%23.%23%23%23",
+  "textNote": "Eurostat je statistički ured Europske unije, odgovoran za objavljivanje visokokvalitetnih statistika i pokazatelja na razini cijele Europe koji omogućuju usporedbe između zemalja i regija.",
+  "textDataAccess": "Pristup podacima",
+  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L,Z,0;UNIT,L,Z,1;INDICATORS,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDICATORS,OBS_FLAG;DS-053382UNIT,PC_GDP;&rankName1=UNIT_1_2_-1_2&rankName2= POKAZATELJI_1_2_-1_2&naziv_ranka3=SEKTNA_PERIFORMA_1_2_-1_2&naziv_ranka4=VRIJEME_1_0_0_0&naziv_ranka5=GEO_1_0_0_1&sortR=ASC_-1_PRVO&sortC=ASC_-1_PRVO&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=KOTRLJANJE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23",
   "textCountryClick": "Kliknite za više informacija"
 }

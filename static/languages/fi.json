@@ -1,13 +1,13 @@
 {
   "heading": "Tutkimus- ja kehitystyötä kaikkialla Euroopassa",
-  "subheading": "Bruttokansantuotteen T&K-menot vuonna 2021 suhteessa BKT:hen. EU:n keskiarvo: 2,27 %",
-  "legend1": "Tietoja ei ole saatavilla",
+  "subheading": "Bruttomenot tutkimukseen ja kehitykseen vuonna 2021 prosentteina BKT:sta. EU:n keskiarvo: 2,27 %",
+  "legend1": "Ei tietoja saatavilla",
   "tooltip1": "BKT:sta",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
-  "textNoteDescription": "Merkintä",
-  "textNote": "Eurostat on Euroopan unionin tilastotoimisto, jonka tehtävänä on julkaista korkealaatuisia Euroopan laajuisia tilastoja ja indikaattoreita, jotka mahdollistavat maiden ja alueiden välisen vertailun.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Eurostat on Euroopan unionin tilastovirasto, joka julkaisee korkealaatuisia Euroopan laajuisia tilastoja ja indikaattoreita, jotka mahdollistavat maiden ja alueiden välisen vertailun.",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L, Z,0;YKSIKKÖ,L,Z,1;INDIKAATTORIT,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDIKAATTORIT,OBS_FLAG;DS-053382YKSIKÖT,PC_GDP;&rankName1=UNIT_1_2_Nimi_3=IND_2_2_Nimi_2 SECTPERF_1_2_-1_2&rankName4=TIME_1_0_0_0&rankName5=GEO_1_0_0_1&sortR=ASC_-1_FIRST&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=ROLLING&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23 %23%23,%23%23%23",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L,Z,0;UNIT,L,Z,1;INDIKAATORIT,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDICATORS,OBS_FLAG;DS-053382UNIT,PC_GDP;&rankName1=UNIT_1_2_-1_2&rankName2= INDICATORS_1_2_-1_2&rankName3=SECTPERF_1_2_-1_2&rankName4=TIME_1_0_0_0&rankName5=GEO_1_0_0_1&sortR=ASC_-1_FIRST&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=LIIKKUVA&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23",
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

@@ -1,13 +1,13 @@
 {
   "heading": "Iarrachtaí taighde agus forbartha ar fud na hEorpa",
-  "subheading": "Ollchaiteachas intíre ar T&F in 2021 mar chéatadán den OTI. Meán an AE: 2.27%",
+  "subheading": "Caiteachas olltáirgthe intíre ar T&F in 2021 mar chéatadán den OTI. Meán an AE: 2.27%",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "de OTI",
+  "tooltip1": "den OTI",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "textNoteDescription": "Nóta",
-  "textNote": "Is é Eurostat oifig staidrimh an Aontais Eorpaigh, atá freagrach as staitisticí agus táscairí ardchaighdeáin a fhoilsiú ar fud na hEorpa a chumasaíonn comparáidí idir tíortha agus réigiúin.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L, Z,0;UNIT,L,Z,1;TÁSCAIRÍ,C,Z,2;&zSelection=DS-053382SECTPERF, IOMLÁN;DS-053382INDICATORS,OBS_FLAG;DS-053382UNIT,PC_GDP;&rankName1=UNIT_1_TOR_-1_2=UNIT_1_TORY_-1=2 SECTPERF_1_2_-1_2&rankName4=TIME_1_0_0_0&rankName5=GEO_1_0_0_1&sortR=ASC_-1_FIRST&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=ROLLING&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23 %23%23.%23%23%23",
+  "textNote": "Is í Eurostat oifig staidrimh an Aontais Eorpaigh, atá freagrach as staitisticí agus táscairí ardchaighdeáin uile-Eorpacha a fhoilsiú a chuireann ar chumas comparáidí idir tíortha agus réigiúin.",
+  "textDataAccess": "Rochtain ar na sonraí",
+  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L,Z,0;UNIT,L,Z,1;INDICATORS,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDICATORS,OBS_FLAG;DS-053382UNIT,PC_GDP;&rankName1=UNIT_1_2_-1_2&rankName2= TÁSCAIRÍ_1_2_-1_2&AinmRáime3=SECTPERF_1_2_-1_2&AinmRáime4=AM_1_0_0_0&AinmRáime5=GEO_1_0_0_1&sortR=ASC_-1_CHÉAD&sortC=ASC_-1_CHÉAD&rStp=&cStp=&rDCh=&cDCh=&rDM=fíor&cDM=fíor&footnes=bréagach&folamh=bréagach&wai=bréagach&time_mode=ROLLING&time_most_recent=bréagach&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }
