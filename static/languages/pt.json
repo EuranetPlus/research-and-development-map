@@ -1,13 +1,13 @@
 {
   "heading": "Esforços de pesquisa e desenvolvimento em toda a Europa",
-  "subheading": "Despesa interna bruta em I&D em 2021 em percentagem do PIB. Média da UE: 2,27%.",
-  "legend1": "Nenhum dado disponível",
+  "subheading": "Despesa interna bruta em I&D em 2024 como percentagem do PIB. Média da UE: 2,24%",
+  "legend1": "Não há dados disponíveis.",
   "tooltip1": "do PIB",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Observação",
-  "textNote": "O Eurostat é o serviço estatístico da União Europeia, responsável por publicar estatísticas e indicadores de alta qualidade em toda a Europa que permitem comparações entre países e regiões.",
+  "textNote": "O Eurostat é o serviço de estatística da União Europeia, responsável pela publicação de estatísticas e indicadores de alta qualidade a nível europeu, que permitem comparações entre países e regiões.",
   "textDataAccess": "Acesse os dados",
-  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L,Z,0;UNIT,L,Z,1;INDICATORS,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDICATORS,OBS_FLAG;DS-053382UNIT,PC_GDP;&rankName1=UNIT_1_2_-1_2&rankName2= INDICADORES_1_2_-1_2&rankName3=SECTPERF_1_2_-1_2&rankName4=TIME_1_0_0_0&rankName5=GEO_1_0_0_1&sortR=ASC_-1_FIRST&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=ROLLING&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=R%26D_expenditure",
   "textCountryClick": "Clique para mais informações"
 }

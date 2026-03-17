@@ -1,6 +1,6 @@
 {
   "heading": "Forsknings- och utvecklingsinsatser i hela Europa",
-  "subheading": "Bruttonationalutgifter för forskning och utveckling år 2021 som andel av BNP. EU-genomsnitt: 2,27 %",
+  "subheading": "Bruttonationalutgifter för forskning och utveckling år 2024 som andel av BNP. EU-genomsnitt: 2,24 %",
   "legend1": "Inga data tillgängliga",
   "tooltip1": "av BNP",
   "textSourceDescription": "Källa",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Notera",
   "textNote": "Eurostat är Europeiska unionens statistikkontor och ansvarar för att publicera högkvalitativ statistik och indikatorer för hela Europa som möjliggör jämförelser mellan länder och regioner.",
   "textDataAccess": "Åtkomst till data",
-  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L,Z,0;UNIT,L,Z,1;INDIKATORER,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDIKATORER,OBS_FLAG;DS-053382UNIT,PC_GDP;&rankName1=UNIT_1_2_-1_2&rankName2= INDIKATORER_1_2_-1_2&ranknamn3=SEKTPERF_1_2_-1_2&ranknamn4=TID_1_0_0_0&ranknamn5=GEO_1_0_0_1&sortR=ASC_-1_FÖRSTA&sortC=ASC_-1_FÖRSTA&rStp=&cStp=&rDCh=&cDCh=&rDM=sant&cDM=sant&footnes=false&empty=false&wai=false&time_mode=RULLANDE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=R%26D_expenditure",
   "textCountryClick": "Klicka för mer information"
 }

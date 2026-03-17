@@ -1,13 +1,13 @@
 {
   "heading": "Výzkumné a vývojové úsilí v celé Evropě",
-  "subheading": "Hrubé domácí výdaje na výzkum a vývoj v roce 2021 jako procento HDP. Průměr EU: 2,27 %",
-  "legend1": "Nejsou k dispozici žádná data",
+  "subheading": "Hrubé domácí výdaje na výzkum a vývoj v roce 2024 jako procento HDP. Průměr EU: 2,24 %",
+  "legend1": "Žádné údaje k dispozici",
   "tooltip1": "HDP",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
   "textNote": "Eurostat je statistický úřad Evropské unie, který je zodpovědný za publikování vysoce kvalitních celoevropských statistik a ukazatelů, jež umožňují srovnání mezi zeměmi a regiony.",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053382_QID_-2955A322_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SECTPERF,L,Z,0;UNIT,L,Z,1;INDICATORS,C,Z,2;&zSelection=DS-053382SECTPERF,TOTAL;DS-053382INDICATORS,OBS_FLAG;DS-053382UNIT,PC_HDP;&rankName1=UNIT_1_2_-1_2&rankName2= INDIKÁTORY_1_2_-1_2&název_ranku3=SEKTOVÝKON_1_2_-1_2&název_ranku4=ČAS_1_0_0_0&název_ranku5=GEO_1_0_0_1&sortR=ASC_-1_PRVNÍ&sortC=ASC_-1_PRVNÍ&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=ROLLING&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=R%26D_expenditure",
   "textCountryClick": "Klikněte pro více informací"
 }
