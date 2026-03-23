@@ -1,13 +1,12 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Gli europei investono abbastanza in ricerca e sviluppo?",
+  "subtitle": "Nel 2024, la spesa in ricerca e sviluppo dell'UE ha rappresentato il 2,24% del PIL, pari a 403 miliardi di euro. Questo dato è inferiore all'obiettivo del 3% fissato dall'UE nel corso degli ultimi anni, volto a stimolare l'innovazione e la competitività. A livello globale, l'UE è in ritardo rispetto a paesi leader come Stati Uniti e Corea del Sud, principalmente a causa dei minori investimenti da parte del settore privato.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Eurostat è l'ufficio statistico dell'Unione europea, responsabile della pubblicazione di statistiche e indicatori di alta qualità a livello europeo che consentono confronti tra paesi e regioni.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Accedere ai dati",
   "legend1": "Nessun dato disponibile",
+  "customUnitLabel": "del PIL",
   "tooltipExtraInfoLabel": "clicca qui"
 }
