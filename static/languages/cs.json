@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Investují Evropané dostatečně do výzkumu a vývoje?",
+  "subtitle": "V roce 2024 představovaly výdaje EU na výzkum a vývoj 2,24 % HDP, což odpovídá 403 miliardám eur. To je méně než dlouhodobý cíl EU ve výši 3 %, který má podpořit inovace a konkurenceschopnost. Celosvětově EU zaostává za lídry, jako jsou USA a Jižní Korea, a to především kvůli nižším investicím ze soukromého sektoru.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Eurostat je statistický úřad Evropské unie, který je zodpovědný za publikování vysoce kvalitních celoevropských statistik a ukazatelů, jež umožňují srovnání mezi zeměmi a regiony.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
+  "customUnitLabel": "HDP",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
