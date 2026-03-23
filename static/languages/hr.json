@@ -1,13 +1,12 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Ulažu li Europljani dovoljno u istraživanje i razvoj?",
+  "subtitle": "U 2024. godini, izdaci EU-a za istraživanje i razvoj činili su 2,24% BDP-a, što je ekvivalentno 403 milijarde eura. To je manje od dugoročnog cilja EU-a od 3%, koji je namijenjen poticanju inovacija i konkurentnosti. Globalno, EU zaostaje za vodećim zemljama poput SAD-a i Južne Koreje, prvenstveno zbog nižih ulaganja iz privatnog sektora.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Eurostat je statistički ured Europske unije, odgovoran za objavljivanje visokokvalitetnih statistika i pokazatelja na razini cijele Europe koji omogućuju usporedbe između zemalja i regija.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Eurostat (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
+  "customUnitLabel": "BDP-a",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
