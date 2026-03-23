@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "An bhfuil Eorpaigh ag infheistiú go leor i dtaighde agus i bhforbairt?",
+  "subtitle": "Sa bhliain 2024, b'ionann caiteachas T&F an AE agus 2.24% den OTI — arb ionann é agus 403 billiún euro. Tá sé seo faoi bhun sprioc fhadtéarmach an AE de 3%, atá beartaithe chun nuálaíocht agus iomaíochas a threisiú. Ar fud an domhain, tá an AE i mbaol ceannairí ar nós SAM agus an Chóiré Theas, go príomha mar gheall ar infheistíocht níos ísle ón earnáil phríobháideach.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Is í Eurostat oifig staidrimh an Aontais Eorpaigh, atá freagrach as staitisticí agus táscairí ardchaighdeáin uile-Eorpacha a fhoilsiú a chuireann ar chumas comparáidí idir tíortha agus réigiúin.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "den OTI",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
