@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Czy Europejczycy inwestują wystarczająco w badania i rozwój?",
+  "subtitle": "W 2024 roku wydatki UE na badania i rozwój stanowiły 2,24% PKB – równowartość 403 miliardów euro. Jest to wartość niższa od długofalowego celu UE wynoszącego 3%, który ma na celu zwiększenie innowacyjności i konkurencyjności. W ujęciu globalnym UE pozostaje w tyle za liderami, takimi jak Stany Zjednoczone i Korea Południowa, głównie z powodu niższych inwestycji sektora prywatnego.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Eurostat to urząd statystyczny Unii Europejskiej odpowiedzialny za publikację wysokiej jakości statystyk i wskaźników obejmujących całą Europę, które umożliwiają porównywanie krajów i regionów.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "PKB",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
