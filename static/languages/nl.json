@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Investeren Europeanen wel genoeg in onderzoek en ontwikkeling?",
+  "subtitle": "In 2024 bedroegen de R&D-uitgaven van de EU 2,24% van het bbp, oftewel 403 miljard euro. Dit blijft achter bij de al lang bestaande EU-doelstelling van 3%, die bedoeld is om innovatie en concurrentievermogen te stimuleren. Wereldwijd loopt de EU achter op koplopers zoals de VS en Zuid-Korea, voornamelijk als gevolg van lagere investeringen vanuit de particuliere sector.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Eurostat is het statistisch bureau van de Europese Unie en is verantwoordelijk voor de publicatie van hoogwaardige, Europees brede statistieken en indicatoren die vergelijkingen tussen landen en regio's mogelijk maken.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "van het bbp",
   "tooltipExtraInfoLabel": "Klik hier"
 }
