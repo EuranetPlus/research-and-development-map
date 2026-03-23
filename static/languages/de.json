@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Investieren die Europäer genug in Forschung und Entwicklung?",
+  "subtitle": "Im Jahr 2024 beliefen sich die Ausgaben der EU für Forschung und Entwicklung auf 2,24 % des BIP – umgerechnet 403 Milliarden Euro. Damit bleibt die EU weit hinter ihrem langjährigen Ziel von 3 % zurück, das Innovation und Wettbewerbsfähigkeit stärken soll. Weltweit liegt die EU hinter führenden Ländern wie den USA und Südkorea zurück, vor allem aufgrund geringerer Investitionen des Privatsektors.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Eurostat ist das statistische Amt der Europäischen Union und verantwortlich für die Veröffentlichung qualitativ hochwertiger, europaweiter Statistiken und Indikatoren, die Vergleiche zwischen Ländern und Regionen ermöglichen.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "BIP",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
