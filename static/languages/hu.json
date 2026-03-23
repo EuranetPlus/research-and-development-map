@@ -1,13 +1,12 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Eleget fektetnek-e be az európaiak a kutatásba és fejlesztésbe?",
+  "subtitle": "2024-ben az EU K+F kiadásai a GDP 2,24%-át tették ki – ami 403 milliárd eurónak felel meg. Ez elmarad az EU régóta kitűzött 3%-os céljától, amelynek célja az innováció és a versenyképesség fellendítése. Globálisan az EU lemarad az olyan vezető országok mögött, mint az Egyesült Államok és Dél-Korea, elsősorban a magánszektor alacsonyabb beruházásai miatt.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "Az Eurostat az Európai Unió statisztikai hivatala, amely felelős az országok és régiók közötti összehasonlítást lehetővé tevő, kiváló minőségű, európai szintű statisztikák és mutatók közzétételéért.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
+  "customUnitLabel": "a GDP-ből",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
