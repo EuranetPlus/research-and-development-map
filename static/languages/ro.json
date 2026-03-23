@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Investesc europenii suficient în cercetare și dezvoltare?",
+  "subtitle": "În 2024, cheltuielile UE pentru cercetare și dezvoltare au reprezentat 2,24% din PIB, echivalentul a 403 miliarde de euro. Această cifră este sub obiectivul de 3% al UE, stabilit de mult timp, care vizează stimularea inovației și a competitivității. La nivel global, UE este în urma unor lideri precum SUA și Coreea de Sud, în principal din cauza investițiilor mai mici din sectorul privat.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Eurostat este oficiul statistic al Uniunii Europene, responsabil pentru publicarea de statistici și indicatori de înaltă calitate la nivel european, care permit comparații între țări și regiuni.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
+  "customUnitLabel": "din PIB",
   "tooltipExtraInfoLabel": "Click aici"
 }
