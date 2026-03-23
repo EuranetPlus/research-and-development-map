@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "L-Ewropej qed jinvestu biżżejjed fir-riċerka u l-iżvilupp?",
+  "subtitle": "Fl-2024, l-infiq tal-UE fuq ir-Riċerka u l-Iżvilupp kien jammonta għal 2.24% tal-PDG — ekwivalenti għal 403 biljun ewro. Dan ma laħaqx il-mira li ilha teżisti tal-UE ta’ 3%, li hija maħsuba biex tagħti spinta lill-innovazzjoni u l-kompetittività. Globalment, l-UE tinsab lura minn mexxejja bħall-Istati Uniti u l-Korea t’Isfel, primarjament minħabba investiment aktar baxx mis-settur privat.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "L-Eurostat huwa l-uffiċċju statistiku tal-Unjoni Ewropea, responsabbli għall-pubblikazzjoni ta’ statistika u indikaturi ta’ kwalità għolja madwar l-Ewropa li jippermettu tqabbil bejn pajjiżi u reġjuni.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "tal-PDG",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
