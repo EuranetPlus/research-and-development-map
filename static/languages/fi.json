@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Investoivatko eurooppalaiset tarpeeksi tutkimukseen ja kehitykseen?",
+  "subtitle": "Vuonna 2024 EU:n tutkimus- ja kehitysmenot olivat 2,24 prosenttia bruttokansantuotteesta – mikä vastaa 403 miljardia euroa. Tämä jää jälkeen EU:n pitkäaikaisesta 3 prosentin tavoitteesta, jonka tarkoituksena on edistää innovointia ja kilpailukykyä. Maailmanlaajuisesti EU on jäljessä johtavista maista, kuten Yhdysvalloista ja Etelä-Koreasta, pääasiassa yksityisen sektorin vähäisempien investointien vuoksi.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Eurostat on Euroopan unionin tilastovirasto, joka julkaisee korkealaatuisia Euroopan laajuisia tilastoja ja indikaattoreita, jotka mahdollistavat maiden ja alueiden välisen vertailun.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
+  "customUnitLabel": "BKT:sta",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
