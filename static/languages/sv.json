@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Investerar européerna tillräckligt i forskning och utveckling?",
+  "subtitle": "År 2024 uppgick EU:s FoU-utgifter till 2,24 % av BNP – motsvarande 403 miljarder euro. Detta är mindre än EU:s långvariga mål på 3 %, som är avsett att öka innovation och konkurrenskraft. Globalt sett ligger EU efter ledare som USA och Sydkorea, främst på grund av lägre investeringar från den privata sektorn.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Eurostat är Europeiska unionens statistikkontor och ansvarar för att publicera högkvalitativ statistik och indikatorer för hela Europa som möjliggör jämförelser mellan länder och regioner.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "av BNP",
   "tooltipExtraInfoLabel": "Klicka här"
 }
