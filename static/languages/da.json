@@ -1,13 +1,12 @@
 {
-  "title": "Hvilke EU-lande har de bedste beskæftigelsesmuligheder?",
-  "subtitle": "Fremtidig vækst i beskæftigelsen i disse lande i 2022-2035 anslås til 5,6 %.",
+  "title": "Investerer europæerne nok i forskning og udvikling?",
+  "subtitle": "I 2024 udgjorde EU's FoU-udgifter 2,24 % af BNP – svarende til 403 milliarder euro. Dette er mindre end EU's mangeårige mål på 3 %, som har til formål at fremme innovation og konkurrenceevne. Globalt set halter EU bagefter ledere som USA og Sydkorea, primært på grund af lavere investeringer fra den private sektor.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Eurostat er Den Europæiske Unions statistiske kontor, der er ansvarlig for at offentliggøre europæisk dækkende statistikker og indikatorer af høj kvalitet, der muliggør sammenligninger mellem lande og regioner.",
   "textSourceDescription": "Kilde",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få adgang til data",
-  "extraInfo_DE": "Tyskland fremskynder udrulningen af vedvarende energi, sigter mod 80 % ren strøm inden 2030",
-  "extraInfo_FR": "Det franske parlament godkender lovforslaget om større immigrationsreformer under landsdækkende protester",
-  "legend1": "Ingen tilgængelige data",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Få adgang til dataene",
+  "legend1": "Ingen data tilgængelige",
+  "customUnitLabel": "af BNP",
   "tooltipExtraInfoLabel": "Klik her"
 }
