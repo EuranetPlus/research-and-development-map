@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Vai eiropieši pietiekami iegulda pētniecībā un attīstībā?",
+  "subtitle": "2024. gadā ES pētniecības un attīstības izdevumi veidoja 2,24 % no IKP, kas atbilst 403 miljardiem eiro. Tas ir mazāk nekā ES ilgstoši noteiktais 3 % mērķis, kura mērķis ir veicināt inovācijas un konkurētspēju. Globālā mērogā ES atpaliek no tādiem līderiem kā ASV un Dienvidkoreja, galvenokārt mazāku privātā sektora investīciju dēļ.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Eurostat ir Eiropas Savienības statistikas birojs, kas ir atbildīgs par augstas kvalitātes Eiropas mēroga statistikas un rādītāju publicēšanu, kas ļauj veikt salīdzinājumus starp valstīm un reģioniem.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "no IKP",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
