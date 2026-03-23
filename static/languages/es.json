@@ -1,13 +1,12 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Están invirtiendo los europeos lo suficiente en investigación y desarrollo?",
+  "subtitle": "En 2024, el gasto en I+D de la UE representó el 2,24 % del PIB, equivalente a 403.000 millones de euros. Esta cifra se queda corta respecto al objetivo del 3 % que la UE se ha fijado desde hace tiempo para impulsar la innovación y la competitividad. A nivel mundial, la UE se sitúa por detrás de líderes como Estados Unidos y Corea del Sur, principalmente debido a la menor inversión del sector privado.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Eurostat es la oficina estadística de la Unión Europea, responsable de publicar estadísticas e indicadores de alta calidad a nivel europeo que permiten realizar comparaciones entre países y regiones.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
+  "customUnitLabel": "del PIB",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
